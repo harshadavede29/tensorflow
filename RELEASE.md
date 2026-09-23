@@ -661,6 +661,8 @@ Aiden Grossman, Akash Patel, Akhil Goel, Alexander Pivovarov, Andrew Goodbody, A
 *   `tf.compat.v1.Session`
     * `tf.compat.v1.Session.partial_run` and `tf.compat.v1.Session.partial_run_setup` will be deprecated in the next release.
 
+    The Git hub used to also fork.
+
 ### Known Caveats
 
 * `tf.lite`

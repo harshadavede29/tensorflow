@@ -19,6 +19,8 @@ Before sending your pull requests, make sure you do the following:
 
 ### Typical Pull Request Workflow -
 
+the typical pull 
+
 **1. New PR**
 
 - As a contributor, you submit a New PR on GitHub.
